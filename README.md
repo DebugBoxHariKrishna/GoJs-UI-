@@ -1,2 +1,2 @@
-# GoJs-UI-
+# GoJs-UI
 ui exercise
